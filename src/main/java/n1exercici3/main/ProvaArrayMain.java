@@ -6,8 +6,8 @@ public class ProvaArrayMain {
 
 	public static void main(String[] args) {
 		
-		ProvaArray array = new ProvaArray();
-		System.out.println(array.afegirNumeros(100, 5));
+		ProvaArray demo = new ProvaArray();
+		demo.llancarException();
 
 	}
 
